@@ -1,36 +1,36 @@
 ## 👋 Welcome!
 
-### “Your assumptions are your windows on the world. Rub them or the light won't get in.” - A. Diniz
+I'm a professional with over 10 years in Information Technology, specialized in data, trained in database, currently providing value services at BlueShift, a company specialized in Big Data and Analytics services, delivering support to the digital transformation strategy of its customers and partners. 
 
-I am a data analytics professional, with over 6 years of experience in the data industry, passionate about innovation and a big fan of collaborative creations.
+I'm seek to continue in my continuous learning process and experience as a Data Engineer, performing value exchange, serving.
 
-I am a co-founder and the Data Team Lead of a Non-profit Big Data Startup funded by one of the most relevant public research institutes in Brazil. Interested in web3 and fast paced environments.
+My goal is to generate value and always seek to make life easier for the end user, whether by automating processes, working with information, or building metrics and indicators.
 
-<a href="https://www.linkedin.com/in/tamara-o-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "tam.oduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/tam.duarte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Among my main technical skills are: SQL, Python, Spark (PySpark), R Language. In addition to these capabilities, my main activities include: the construction/maintenance/orchestration of data pipelines; data migration from API, databases or data warehouses; construction of indicators; analysis and requirements with the end customer; among others more detailed in the profile.
 
+Always developing, both professionally and personally, I like to seek knowledge, find it easy to learn, and consider myself self-taught. Focused on value exchange, like to work in teams, focused on problem solving, disciplined in everything he does. I have habits like weight training, reading for development and mindset and always on generating value.
+
+<a href="https://www.linkedin.com/in/brunoconejeros/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "brconejeros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  ## 🚀 **Computer Languages and Tools:**
  
   #### 💻 I am skilled in / I current Use:
-  ![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=SQL)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-  ![BigQuery](https://img.shields.io/badge/-Google%20Big%20Query-black?style=plastic&logo=Big-Query)
-  ![No-Code](https://img.shields.io/badge/-No%20Code%20Solutions-black?style=plastic&logo=No-Code)
-    
+   - SQL
+   - Spark / PySpark
+   - Python
+   - Databricks
+   - R Language
+   - AWS
+   - Linux
+
   #### 🎲 I already worked with :
-  ![GA](https://img.shields.io/badge/-Google%20Analytics-black?style=plastic&logo=Google-Analytics)
-  ![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-black?style=plastic&logo=GTM)
-  ![SPSS](https://img.shields.io/badge/-SPSS-black?style=plastic&logo=SPSS)
-  ![Arena](https://img.shields.io/badge/-Arena-black?style=plastic&logo=Arena)
+   - Databases: MySql, Postgresql, Oracle, Sql Server
+   - Data Warehouse: Hive, Snowflake, Redshift, LakeHouse
+   - Big Data Tools: Hadoop, Hive, Spark
+   - AWS: Glue, Athena, Lambda, EMR
     
-   #### 🌱 I am learning:
-   ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+  #### 🌱 I am learning:
+   - Certifications about GCP and Azure
+   - English
    
-   #### 📚 Next step:
-   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-   
-
-   
-
